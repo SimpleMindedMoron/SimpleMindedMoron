@@ -55,7 +55,7 @@ I'm a passionate developer and tech enthusiast currently focused on building cle
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Simplicity005&theme=radical&hide_border=true&background=0D1117&ring=C147E9&fire=C147E9&currStreakLabel=C147E9" alt="GitHub Streak" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=SimpleMindedMoron&theme=radical&hide_border=true&background=0D1117&ring=C147E9&fire=C147E9&currStreakLabel=C147E9" alt="GitHub Streak" width="70%" />
 </p>
 
 <br>
@@ -66,7 +66,7 @@ I'm a passionate developer and tech enthusiast currently focused on building cle
 <tr>
 <td width="50%" valign="top">
 
-**[Portfolio Website](https://github.com/Simplicity005/Simplicity005.github.io)**
+**[Portfolio Website](https://github.com/SimpleMindedMoron/SimpleMindedMoron.github.io)**
 
 A sleek, responsive developer portfolio featuring a modern, card-based layout. Built with CSS Flexbox/Grid and optimized for clean navigation.
 
@@ -75,7 +75,7 @@ A sleek, responsive developer portfolio featuring a modern, card-based layout. B
 </td>
 <td width="50%" valign="top">
 
-**[Embedded Systems / IoT Projects](https://github.com/Simplicity005/iisc-final-project-automated-car)**
+**[Embedded Systems / IoT Projects](https://github.com/SimpleMindedMoron/iisc-final-project-automated-car)**
 
 Hobby electronics implementations using ESP32 and Arduino, focusing on hardware-software interfacing, sensor integration, and efficient power management.
 
