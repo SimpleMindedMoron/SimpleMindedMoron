@@ -22,7 +22,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: 'username=Simplicity005&show_icons=true&theme=radical'
+          options: 'username=SimpleMindedMoron&show_icons=true&theme=radical'
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -31,7 +31,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: 'username=Simplicity005&layout=compact&theme=radical'
+          options: 'username=SimpleMindedMoron&layout=compact&theme=radical'
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
