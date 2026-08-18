@@ -1,98 +1,60 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7,11,20&height=250&section=header&text=Hi%20there,%20I'm%20Arjun!&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Developer%20%7C%20Tinkerer%20%7C%20F1%20Nerd&descAlignY=70&descSize=18" width="100%"/>
+<img src="./profile/banner.svg" alt="Arjun Sanesh — Developer, Embedded Systems & Software" width="100%" />
 
-<a href="https://linkedin.com/in/arjun-sanesh">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=C147E9&center=true&vCenter=true&width=600&lines=Building+clean%2C+efficient+software;Tinkering+with+ESP32+%26+embedded+systems;Probably+watching+F1+right+now;Existing;Alive;=);" alt="Typing SVG" />
-</a>
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-12141C?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-sanesh)
+[![GitHub](https://img.shields.io/badge/GitHub-12141C?style=flat-square&logo=github&logoColor=white)](https://github.com/SimpleMindedMoron)
 
 </div>
 
 <br>
 
-### About Me
+## About
 
-I'm a passionate developer and tech enthusiast currently focused on building clean, efficient software and diving deep into algorithms and data structures. I love solving complex puzzles — whether that's optimizing code, structuring data, or digging into low-level engineering.
+I'm a developer focused on building clean, efficient software and digging into algorithms, data structures, and low-level engineering. I like solving complex puzzles — whether that's optimizing code, structuring data, or getting hardware and software to talk to each other.
 
--  **Currently working on:** Sleek portfolio layouts and hobby electronics
--  **Learning & Exploring:** Stochastic modeling, advanced embedded systems, and interactive UI design
--  **Fun Fact:** When I'm not writing code, you can probably find me analyzing F1 telemetry data or keeping track of the latest EV tech
-
-<br>
-
-###  Tech Stack & Tools
-
-**Languages**
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![IRremote](https://img.shields.io/badge/IRremote-6A1B9A?style=for-the-badge&logo=arduino&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+| | |
+|---|---|
+| **Building** | Sleek portfolio layouts and hobby electronics |
+| **Exploring** | Stochastic modeling, embedded systems, interactive UI design |
+| **Off duty** | Analyzing F1 telemetry or reading up on the latest EV tech |
 
 <br>
 
-###  GitHub Stats
+## Stack
 
-<p align="center">
-  <img src="./profile/stats.svg" alt="Arjun's GitHub Stats" width="48%" height = "300px" />
-  <img src="./profile/top-langs.svg" alt="Top Languages" width="48%" height = "300px"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SimpleMindedMoron&theme=radical&hide_border=true&background=0D1117&ring=C147E9&fire=C147E9&currStreakLabel=C147E9" alt="GitHub Streak" width="70%" />
-</p>
+| Category | |
+|---|---|
+| **Languages** | `C` `C++` `Python` `JavaScript` `SQL` `HTML/CSS` |
+| **Frameworks** | `React` `Node.js` `Arduino` `ESP32` |
+| **Tools** | `Git` `GitHub` `Linux` |
 
 <br>
 
-###  Featured Projects
+## Stats
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-**[Portfolio Website](https://github.com/SimpleMindedMoron/SimpleMindedMoron.github.io)**
+<img src="https://github-readme-stats.vercel.app/api?username=SimpleMindedMoron&show_icons=true&hide_border=true&bg_color=00000000&title_color=9D6FFF&icon_color=9D6FFF&text_color=8B90A3&hide_title=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimpleMindedMoron&layout=compact&hide_border=true&bg_color=00000000&title_color=9D6FFF&text_color=8B90A3&hide=jupyter%20notebook" alt="Top Languages" width="49%" />
 
-A sleek, responsive developer portfolio featuring a modern, card-based layout. Built with CSS Flexbox/Grid and optimized for clean navigation.
+<img src="https://streak-stats.demolab.com?user=SimpleMindedMoron&hide_border=true&background=00000000&ring=9D6FFF&fire=9D6FFF&currStreakLabel=9D6FFF&sideLabels=8B90A3&currStreakNum=F5F5F7&sideNums=F5F5F7&dates=8B90A3&card_width=660" alt="GitHub Streak" width="70%" />
 
-`CSS` `Flexbox` `Grid`
-
-</td>
-<td width="50%" valign="top">
-
-**[Embedded Systems / IoT Projects](https://github.com/SimpleMindedMoron/iisc-final-project-automated-car)**
-
-Hobby electronics implementations using ESP32 and Arduino, focusing on hardware-software interfacing, sensor integration, and efficient power management.
-
-`ESP32` `Arduino` `C++`
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
-### 🤝 Connect with me
+## Projects
 
-<p align="left">
-<a href="https://linkedin.com/in/arjun-sanesh" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-</p>
+| Project | Description | Stack |
+|---|---|---|
+| **[Portfolio Website](https://github.com/SimpleMindedMoron/SimpleMindedMoron.github.io)** | Responsive developer portfolio with a modern, card-based layout, built with CSS Flexbox/Grid and tuned for clean navigation | `CSS` `Flexbox` `Grid` |
+| **[Embedded Systems / IoT](https://github.com/SimpleMindedMoron/iisc-final-project-automated-car)** | Hobby electronics on ESP32 and Arduino, focused on hardware-software interfacing, sensor integration, and power management | `ESP32` `Arduino` `C++` |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<br>
+
+<div align="center">
+<sub>Arjun Sanesh</sub>
+</div>
