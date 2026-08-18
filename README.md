@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile/banner.svg" alt="Arjun Sanesh — Developer, Embedded Systems & Software" width="100%" />
+<img src="./profile/banner.svg" alt="Arjun Sanesh — Working with both Software and Hardware (and an F1 Nerd)" width="100%" />
 
 <br>
 
@@ -18,8 +18,8 @@ I'm a developer focused on building clean, efficient software and digging into a
 | | |
 |---|---|
 | **Building** | Sleek portfolio layouts and hobby electronics |
-| **Exploring** | Stochastic modeling, embedded systems, interactive UI design |
-| **Off duty** | Analyzing F1 telemetry or reading up on the latest EV tech |
+| **Exploring** | Embedded systems, interactive UI design |
+| **Off duty** | Watching F1 |
 
 <br>
 
@@ -28,8 +28,7 @@ I'm a developer focused on building clean, efficient software and digging into a
 | Category | |
 |---|---|
 | **Languages** | `C` `C++` `Python` `JavaScript` `SQL` `HTML/CSS` |
-| **Frameworks** | `React` `Node.js` `Arduino` `ESP32` |
-| **Tools** | `Git` `GitHub` `Linux` |
+| **Frameworks** | `React` `Node.js` `Next.js` `PostgreSQL` |
 
 <br>
 
@@ -50,8 +49,8 @@ I'm a developer focused on building clean, efficient software and digging into a
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Portfolio Website](https://github.com/SimpleMindedMoron/SimpleMindedMoron.github.io)** | Responsive developer portfolio with a modern, card-based layout, built with CSS Flexbox/Grid and tuned for clean navigation | `CSS` `Flexbox` `Grid` |
-| **[Embedded Systems / IoT](https://github.com/SimpleMindedMoron/iisc-final-project-automated-car)** | Hobby electronics on ESP32 and Arduino, focused on hardware-software interfacing, sensor integration, and power management | `ESP32` `Arduino` `C++` |
+| **[Portfolio Website](https://github.com/SimpleMindedMoron/SimpleMindedMoron.github.io)** | Responsive developer portfolio with a modern, card-based layout, built with CSS Flexbox/Grid and tuned for clean navigation | `React` `Node.js` `Vanilla CSS` |
+| **[Embedded Systems / IoT](https://github.com/SimpleMindedMoron/iisc-final-project-automated-car)** | Hobby electronics on ESP32 and Arduino, focused on hardware-software interfacing, sensor integration, and power management | `ESP32` `Arduino` `Embedded C` `Python` `ROS2 Jazzy` |
 
 <br>
 
