@@ -30,3 +30,4 @@ I'm currently living under a cemented rock, where I just play with hardware and 
 | :--- | :--- | :--- |
 | **[Portfolio Website](https://github.com/SimpleMindedMoron/SimpleMindedMoron.github.io)** | Responsive developer portfolio with a modern, card-based layout, built with Flexbox/Grid and tuned for clean navigation. | `React` `Node.js` `Vanilla CSS` |
 | **[Embedded Systems / IoT](https://github.com/SimpleMindedMoron/iisc-final-project-automated-car)** | Hobby electronics on ESP32 and Arduino, focused on hardware-software interfacing, sensor integration, and power management. | `ESP32` `Arduino` `Embedded C` `Python` `ROS2 Jazzy` |
+| **[Shared Calendar Website: Align / WebDev](https://github.com/SimpleMindedMoron/minimal-calendar)** | Responsive shared calendar app to keep track of time and to-do tasks. I built this because I wanted to organize my life and have a shared space for group projects to visualize deadlines. | `Next.js` `Modular CSS` `PostgreSQL` |
