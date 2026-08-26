@@ -26,8 +26,12 @@ I'm currently living under a cemented rock, where I just play with hardware and 
 
 ### Stats
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SimpleMindedMoron&rank_icon=percentile&custom_title=Statistics%20Island&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=SimpleMindedMoron&rank_icon=percentile&custom_title=Statistics%20Island&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=SimpleMindedMoron&layout=compact&langs_count=6&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=SimpleMindedMoron&layout=compact&langs_count=6&theme=chartreuse-dark)
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=SimpleMindedMoron&rank_icon=percentile&custom_title=Statistics%20Island&show_icons=true&include_all_commits=true&theme=chartreuse-dark" width="49%" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=SimpleMindedMoron&layout=compact&langs_count=6&theme=chartreuse-dark" width="37%" alt="Top Languages" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=SimpleMindedMoron&hide_border=true&background=00000000&ring=9D6FFF&fire=9D6FFF&currStreakLabel=9D6FFF&sideLabels=8B90A3&currStreakNum=F5F5F7&sideNums=F5F5F7&dates=8B90A3" width="50%" alt="GitHub Streak" />
+</div>
 
 ---
 
