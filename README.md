@@ -26,11 +26,7 @@ I'm currently living under a cemented rock, where I just play with hardware and 
 
 ### Stats
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SimpleMindedMoron&show_icons=true&hide_border=true&bg_color=00000000&title_color=9D6FFF&icon_color=9D6FFF&text_color=8B90A3&hide_title=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimpleMindedMoron&layout=compact&hide_border=true&bg_color=00000000&title_color=9D6FFF&text_color=8B90A3&hide=jupyter%20notebook" alt="Top Languages" />
-  <img height="165" src="https://streak-stats.demolab.com?user=SimpleMindedMoron&hide_border=true&background=00000000&ring=9D6FFF&fire=9D6FFF&currStreakLabel=9D6FFF&sideLabels=8B90A3&currStreakNum=F5F5F7&sideNums=F5F5F7&dates=8B90A3" alt="GitHub Streak" />
-</div>
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
