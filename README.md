@@ -27,6 +27,7 @@ I'm currently living under a cemented rock, where I just play with hardware and 
 ### Stats
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SimpleMindedMoron&rank_icon=percentile&custom_title=Statistics%20Island&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=SimpleMindedMoron&rank_icon=percentile&custom_title=Statistics%20Island&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=SimpleMindedMoron&layout=compact&langs_count=6&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=SimpleMindedMoron&layout=compact&langs_count=6&theme=chartreuse-dark)
 
 ---
 
